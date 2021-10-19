@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Chào mừng ngày 20-10",
-    introTitle: '20IT1',
+    introTitle: '21IT1',
     introDesc: `Chúc các bạn nữ 21IT1 và những người phụ nữ thân yêu của các bạn có một ngày 20-10 thật hạnh phúc `,
     btnIntro: 'Bấm vào đây nè',
     title: 'Các bạn có muốn làm bài tập ngày 20-10 không',
