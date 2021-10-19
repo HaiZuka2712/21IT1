@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'Chúc các bạn làm bài tập vui vẻ',
     messDesc: 'Gặp khó khăn gì thì cứ hỏi mình nhé',
     btnAccept: 'Okiiiii',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://docs.google.com/document/d/1tUejszghbYdtzU2fDdHCCSSHoa6BRD5-2d2AgDa4WeQ/edit?usp=sharing' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
